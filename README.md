@@ -1,6 +1,8 @@
 # raki_pedmenu
 
-Vielen Dank für deinen Kauf. Solltest du Probleme oder Hilfe benötigen beim Einrichten und/oder beim Konfigurieren des Scripts, so eröffne ein Ticket in unserem Discord. (https://discord.rakiservice.xyz)
+Hallo,
+
+hier ist mein Ped-Menu für FiveM. Ihr könnt es mit /pedmenu öffnen. 
 
 # Installation
 
